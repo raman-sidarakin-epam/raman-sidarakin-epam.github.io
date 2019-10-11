@@ -1,0 +1,39 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+            "appID": "4FMA5B58KE.com.clarabridge.clarabridgemobile",
+            "paths": ["*"]
+        },
+        {
+            "appID": "4FMA5B58KE.com.clarabridge.clarabridgemobile-staging",
+            "paths": ["*"]
+        },
+        {
+            "appID": "4FMA5B58KE.com.clarabridge.clarabridgemobile-dev",
+            "paths": ["*"]
+        },
+        {
+            "appID": "4FMA5B58KE.com.clarabridge.clarabridgemobile-beta",
+            "paths": ["*"]
+        },
+        {
+            "appID": "2HQ3MS6BM4.com.clarabridge.clarabridgemobile",
+            "paths": ["*"]
+        },
+        {
+            "appID": "2HQ3MS6BM4.com.clarabridge.clarabridgemobile-staging",
+            "paths": ["*"]
+        },
+        {
+            "appID": "2HQ3MS6BM4.com.clarabridge.clarabridgemobile-dev",
+            "paths": ["*"]
+        },
+        {
+            "appID": "2HQ3MS6BM4.com.clarabridge.clarabridgemobile-beta",
+            "paths": ["*"]
+        }
+    ]
+    }
+}
